@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541046906367",
+    "firebase_url": "https://ecommerce-docjo-default-rtdb.firebaseio.com",
+    "project_id": "ecommerce-docjo",
+    "storage_bucket": "ecommerce-docjo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541046906367:android:7f320cfc4248c2e6615bca",
+        "android_client_info": {
+          "package_name": "com.ecommerce.docjo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541046906367-92vbl7jo7rc0h2c628fs5rjenldjepoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOTNboNNO-wMZX0E_S-jl7EDmEDKCAv_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541046906367-92vbl7jo7rc0h2c628fs5rjenldjepoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
