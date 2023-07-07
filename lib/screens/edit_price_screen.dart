@@ -25,9 +25,6 @@ class EditPriceScreen extends StatefulWidget {
 class _EditPriceScreenState extends State<EditPriceScreen> {
   late final TextEditingController priceController;
 
-  final fireStoreCollectionRef =
-      FirebaseFirestore.instance.collection('products');
-
   final logOutAuth = FirebaseAuth.instance;
   final userEmail = FirebaseAuth.instance.currentUser?.email;
 

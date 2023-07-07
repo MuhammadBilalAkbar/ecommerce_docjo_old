@@ -19,14 +19,12 @@ class _SplashScreenState extends State<SplashScreen> {
   }
 
   @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-        child: Text(
-          'ECommerce App',
-          style: TextStyle(fontSize: 30),
+  Widget build(BuildContext context) => const Scaffold(
+        body: Center(
+          child: Text(
+            'ECommerce App',
+            style: TextStyle(fontSize: 30),
+          ),
         ),
-      ),
-    );
-  }
+      );
 }
